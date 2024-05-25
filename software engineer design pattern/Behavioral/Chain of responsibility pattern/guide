@@ -1,0 +1,6 @@
+We use this pattern in situations where we need a pipeline or chain of operations/objects
+for processing a request.
+
+
+This pattern is often used in event-driven systems, where events and requests can be generated from various sources and
+need to be processed in a specific order, depending on their type and priority.

@@ -1,0 +1,27 @@
+ #creational:
+ 1. Singleton -> ensure that a class has only one instance while providing a global access point to this instance
+ - when to use: when we want to have a control access to a shared resource such as files and databases and even thread pools when dealing with
+    multithreading.
+ - extremely crucial in logging
+
+2. Factory -> provides an interface for creating objects of different classes, without specifying their exact types.
+ - It encapsulates the object creation logic in a separate factory class,
+    which is responsible for creating objects based on certain conditions or parameters.
+
+ -factory pattern helps create objects dynamically,
+    based on certain conditions or parameters, without knowing the exact type of object being created
+
+ In summary, the factory pattern is important because it provides abstraction, flexibility, decoupling, centralization,
+ and code reusability in object creation, leading to cleaner, maintainable, and extensible code.
+
+ 3. Abstract Factory -> factories that creates other factories (factories of the factories)
+  - interface that is responsible for creating a factory of related objects without specifying their concrete classes
+
+4. Builder pattern - > allows you to create objects with different configurations or properties without having to write
+    multiple constructors or provide a large number of parameters in a single constructor
+
+5. Prototype pattern -> copy existing objects without depending on those given classes
+
+ -involves creating objects based on a prototype object, which acts as a blueprint for the creation of new objects.
+ Instead of creating objects from scratch, the prototype pattern allows you to clone or copy an existing object,
+ which can be more efficient and flexible.

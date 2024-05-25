@@ -1,0 +1,8 @@
+  It is used to define a set of algorithms, encapsulate each one, and make them interchangeable
+  interchangeable(able to be exchanged with each other without making any difference)
+
+ The strategy pattern allows the client to choose which algorithm to use at runtime,
+ making it easy to change the algorithm used by the client without affecting the client itself.
+
+ This pattern is often used to implement various optimization or
+ calculation strategies in a flexible and maintainable way.

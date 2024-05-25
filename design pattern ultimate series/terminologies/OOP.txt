@@ -1,0 +1,58 @@
+classes -> building blocks of OOP and a blueprint for creating objects.
+
+Object -> an instance of a class.
+
+building blocks are the components or elements that are used to construct or create something else.
+
+In the context of object-oriented programming, a blueprint refers to the definition or template of a class.
+A class blueprint is like a plan or a set of instructions that describes the properties and methods of an object
+that can be created from that class
+
+The blueprint defines what an object of the class will look like and how it will behave.
+
+##Principles of OOP
+Encapsulation -> hiding relevant or sensitive information
+-> It suggests that we should bundle the data and operations on the data inside a single unit (class).
+
+Abstraction -> reduce complexity by hiding unnecessary details. We want to reduce (hiding the implementation detail of classes)
+the number of methods exposed outside the class.
+Method overloading -> means creating different implementations of it with different parameters with same method.
+
+Polymorphism -> many forms
+
+Interfaces -> we use interface to build loosely-coupled, extensible, testable applications.
+An interface is a type similar to a class, but it only includes method declarations, no implementations, it has no code.
+it only defines the capabilities that a class should have.
+
+##coupling -> is about how much a class is dependent upon or coupled to another class.
+we want to reduce the coupling between classes
+
+there is no such thing as zero coupling or no coupling, there is always coupling
+because all classes we create they should work together to perform some task.
+
+we just want to aim to reduce the coupling.
+
+the more our classes coupled to each other, the more costly our changes are going to be.
+by reducing coupling, we can reduce the impact of changes.
+
+## static fields and members
+in OOP, the class can have two types of members, instance members and static members.
+instance -> belong to instances or objects
+static -> these are the fields and methods that belong to a class not an object.
+
+purpose of static members and when do we use them ?
+-> we use them in situations where we gonna present a concept that should be in a single place
+like number of employees. this concept does not belong to any individual employee.
+so this is where we use static members.
+-> use static fields in situations where a value is independent of objects.
+You are going to share it across all objects.
+
+
+## Method overriding
+Annotation -> label that we attached to a class member
+
+
+## Upcasting and Downcasting
+
+Upcasting -> casting an object to one of its super types or parents
+Downcasting -> casting an object to one of its sub types

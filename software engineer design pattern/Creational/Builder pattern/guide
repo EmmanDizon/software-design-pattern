@@ -1,0 +1,7 @@
+To separate the construction of an object from its representation
+
+In general, the Builder pattern is a good choice when you need to create objects with
+many attributes or when you want to encapsulate a complex creation process.
+
+Allows separating the construction of an object from its representation
+so the same construction algorithm can be applied to different representations.

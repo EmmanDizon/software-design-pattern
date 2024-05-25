@@ -1,0 +1,12 @@
+Memento is a behavioral design pattern that lets you save and restore the previous state of an object
+without revealing the details of its implementation.
+
+-implementation of undo mechanism
+
+has 3 classes
+
+1. originator -> editor
+
+2. memento -> editor state
+
+3. caretaker -> history

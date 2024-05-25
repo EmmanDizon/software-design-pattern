@@ -1,0 +1,14 @@
+In Command Design Pattern, requests or operations are wrapped inside objects known as Command objects.
+Each Command object represents a single request or operation, and it contains all the information needed to execute the request.
+
+ The request information is encapsulated in the Command object, including the method name,
+ the object that the method will be called on, and any arguments that need to be passed to the method.
+
+You might consider using the Command pattern in the following scenarios:
+
+Using the command pattern, you can store multiple commands in a class to use them over and over.
+When you want to parametrize objects with operations.
+When you want to queue operations, schedule their execution, or execute them remotely.
+When you want to implement deferred execution of operations.
+When you want to implement audit and undo/redo.
+When you want to assemble a set of simple operations into a complex one.

@@ -1,0 +1,21 @@
+Object-oriented programming is about objects, these objects interact with each other to perform various task.
+As an analogy think about a car.
+
+Cars consist of hundreds of thousands of collaborating objects. Almost all these objects are reusable and replaceable.
+So if any of them malfunction, a technician can put it out and replace it with another object.
+
+Applications built using OOP are exactly the same. Using these techniques we can:
+1. Reduced complexity by breaking down large complex application into smaller, more manageable and
+
+2. easier to maintain.
+
+if object is not working properly, we can only focus on the code of that object, not the entire application.
+we can either fix that object or plug in a different object as a replacement.
+
+3. Code reuse
+4. faster development
+
+just because you don't know how to use a tool, it doesn't mean that tool isn't valid.
+
+both oop and functional are great, but neither work best in all situations.
+lean both these paradigms well and then choose them wisely.

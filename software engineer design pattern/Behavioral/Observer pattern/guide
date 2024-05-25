@@ -1,0 +1,6 @@
+Allows an object notify other objects when its state changes.
+
+when to use:
+
+used when there is a one-to-many relationship between objects, such that when one object changes its state, all its dependents (observers) are notified and updated automatically.
+This pattern is commonly used in event-driven systems, where objects subscribe to events to get notified of changes. Examples of its use include UI updates, stock market updates, and news feeds.

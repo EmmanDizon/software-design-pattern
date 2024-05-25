@@ -1,0 +1,15 @@
+State pattern -> allows an object to behave differently when it state changes.
+-> lets an object alter its behavior when its internal state changes.
+
+Open closed principle -> we can add new functionalities without changing the existing code,
+we can support new functions by adding new classes.
+
+following this principle makes our apps extensible.
+
+
+Perfect time to use states pattern:
+An object's behavior depends on its state, and it must change its behavior at runtime depending on that state.
+
+You have a large number of related classes that differ only in their behavior. By encapsulating each behavior into a separate state class, you can reduce the size and complexity of your code.
+
+You need to be able to change an object's behavior dynamically at runtime, without tightly coupling the behavior to the object.

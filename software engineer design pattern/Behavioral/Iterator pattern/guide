@@ -1,0 +1,14 @@
+Iterator is a behavioral design pattern that lets you traverse elements
+of a collection without exposing its underlying representation
+
+The iterator pattern is a useful pattern to use when you need to:
+
+Traverse a collection of items:
+    The iterator pattern provides a uniform way to traverse a collection of items,
+    such as an array, without exposing the underlying data structure.
+
+Abstract away the implementation details:
+    The iterator pattern allows you to abstract away the implementation details of the collection,
+    making it easier to change the underlying data structure without affecting the rest of the code.
+
+The perfect time to implement the iterator pattern is when you need to traverse a collection of items.

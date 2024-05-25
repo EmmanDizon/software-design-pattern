@@ -1,0 +1,14 @@
+Liskov Substitution & Open-closed principle
+
+there are 2 important design patterns that can guarantee that the liskov substitution principle is not violated:
+1. strategy pattern
+2. template pattern
+
+
+design principles (SOLID)
+it serves us guide to allow scalable and maintainable software architectures
+standards used to organize and arrange the structural components of Software Engineering design
+
+design patterns
+are more about how to design your code, and the concrete implementation of the design principle
+

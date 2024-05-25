@@ -1,0 +1,7 @@
+To ensure a class has a single instance:
+- restricts the instantiation of a class to only one object.
+- ensures that only one instance of the class can be created, and provides a global point of access to that instance.
+
+
+Singleton pattern is implemented by creating a class with a private constructor,
+which prevents other objects from creating instances of the class.

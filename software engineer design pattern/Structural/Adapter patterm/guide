@@ -1,0 +1,4 @@
+we use this pattern to convert interface of a class to a different form.
+
+works as a bridge between two incompatible interfaces. This type of design pattern comes under structural pattern as this pattern
+combines the capability of two independent interfaces.

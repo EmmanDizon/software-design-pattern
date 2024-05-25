@@ -1,0 +1,6 @@
+provides an interface for creating objects in a super class,
+but allows subclasses to alter the type of objects that will be created.
+
+The Factory pattern is useful when you have a hierarchy of classes that need to be created,
+but the specific type of object to be created is not known until runtime.
+By using a Factory, you can create objects dynamically, based on the context in which they are needed.

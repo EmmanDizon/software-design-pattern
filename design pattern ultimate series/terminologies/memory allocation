@@ -1,0 +1,6 @@
+What happens under the hood when we create a new objects in java.
+Java manages two different areas of the memory, one is heap and the other one is stack.
+
+1. Heap -> this is where it stores its objects
+2. Stack -> stores short lived variables like all the primitive, as well as the variables that store references
+to objects on the heap

@@ -1,0 +1,18 @@
+the aim of design patterns is to make software design or our code more understandable and maintainable
+
+
+bad programmers worry about the code. Good programmers worry about data structures and their relationships
+- linus torvalds
+
+
+instantiated classes are used when you need to create objects with unique attributes and behaviors,
+and when you want to take advantage of inheritance and polymorphism.
+Static methods are used when you need to perform operations that are not tied to any particular object,
+ and when you want to access class-level data or behavior.
+ Both have their own use cases and can be beneficial depending on the requirements of your program.
+
+
+inheritance vs composition:
+ inheritance is unfortunately static, we cannot change the behaviors at run-time
+ in several programming languages every class may have just a single parent class, this is why
+ we should favor composition over inheritance

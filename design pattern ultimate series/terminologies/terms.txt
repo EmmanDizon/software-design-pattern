@@ -1,0 +1,39 @@
+in computer science, we have various programming paradigms, or styles of programming
+like functional and OOP (popular paradigms use these days)
+
+ways or styles, patterns of writing code -> paradigms
+
+in OOP, everything is based on the concept of objects.
+these objects are units that contain some data also called state, and operations on the data
+also called behavior, these are methods or functions that modify the data.
+
+So, in OOP, we bring together the data and methods that operate on a single object.
+
+Object
+    -> data
+    -> behavior
+
+in functional programming, we take the opposite approach, we assume that data and behavior
+are fundamentally different, so we keep them separate.
+
+data  behavior
+
+which style is better?
+-> it depends on the problem you are trying to solve, no paradigm works best in all situations.
+-> in software engineering, there is no such thing as one size fits all
+-> depends on the problem, context and budget
+
+
+problem solving -> process of defining a problem, identifying and comparing different solutions, and picking the one
+that best solves that problem with respect to the context and constraints
+
+ "context" refers to the background or situation of a problem
+ "constraints" refer to any limitations or rules that must be followed when trying to solve the problem.
+
+ For example, if the problem is to fix a leaky roof,
+ the context would be the type of roof, the location of the house, and the weather condition.
+ And constraints would be the budget, the time you have to fix the roof,
+ and if there are any rules and regulations that need to be followed.
+ These context and constraints will affect the solutions you can come up with and the best way to solve the problem.
+
+ conclusion: dont fall in love with one solution and apply it to every single problem.

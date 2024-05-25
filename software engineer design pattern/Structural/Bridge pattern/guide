@@ -1,0 +1,6 @@
+In simpler terms, the Bridge pattern allows you to "bridge" the gap between two classes,
+so that they can work together while still being independent.
+
+
+
+

@@ -1,0 +1,14 @@
+Design pattern ->   are the elegant solutions to repeating problems in software design
+
+Design patterns are like blueprints that provide proven solutions for common software design problems.
+They are established best practices that have been refined over time and are widely accepted in the software development community.
+
+#types:
+
+Creational: The design patterns that deal with the creation of an object.
+Structural: The design patterns in this category deals with the class structure such as Inheritance and Composition.
+Behavioral: This type of design patterns provide solution for the better interaction between objects,
+how to provide lose coupling, and flexibility to extend easily in future.
+
+
+

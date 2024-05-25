@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Creational/Abstract Factory/Abstract Factory.iml" filepath="$PROJECT_DIR$/Creational/Abstract Factory/Abstract Factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Structural/Adapter patterm/Adapter patterm.iml" filepath="$PROJECT_DIR$/Structural/Adapter patterm/Adapter patterm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Structural/Bridge pattern/Bridge pattern.iml" filepath="$PROJECT_DIR$/Structural/Bridge pattern/Bridge pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Creational/Builder pattern/Builder pattern.iml" filepath="$PROJECT_DIR$/Creational/Builder pattern/Builder pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Behavioral/Chain of responsibility pattern/Chain of responsibility pattern.iml" filepath="$PROJECT_DIR$/Behavioral/Chain of responsibility pattern/Chain of responsibility pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Behavioral/Command pattern/Command pattern.iml" filepath="$PROJECT_DIR$/Behavioral/Command pattern/Command pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Structural/Composite pattern/Composite pattern.iml" filepath="$PROJECT_DIR$/Structural/Composite pattern/Composite pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Structural/Decorator pattern/Decorator pattern.iml" filepath="$PROJECT_DIR$/Structural/Decorator pattern/Decorator pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Structural/Facade pattern/Facade pattern.iml" filepath="$PROJECT_DIR$/Structural/Facade pattern/Facade pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Creational/Factory Pattern/Factory Pattern.iml" filepath="$PROJECT_DIR$/Creational/Factory Pattern/Factory Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Structural/Flyweight pattern/Flyweight pattern.iml" filepath="$PROJECT_DIR$/Structural/Flyweight pattern/Flyweight pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Behavioral/Iterator pattern/Iterator pattern.iml" filepath="$PROJECT_DIR$/Behavioral/Iterator pattern/Iterator pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Behavioral/Mediator pattern/Mediator pattern.iml" filepath="$PROJECT_DIR$/Behavioral/Mediator pattern/Mediator pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Behavioral/Observer pattern/Observer pattern.iml" filepath="$PROJECT_DIR$/Behavioral/Observer pattern/Observer pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Creational/Prototype/Prototype.iml" filepath="$PROJECT_DIR$/Creational/Prototype/Prototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Structural/Proxy pattern/Proxy pattern.iml" filepath="$PROJECT_DIR$/Structural/Proxy pattern/Proxy pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Creational/Singleton pattern/Singleton pattern.iml" filepath="$PROJECT_DIR$/Creational/Singleton pattern/Singleton pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Behavioral/State pattern/State pattern/State pattern.iml" filepath="$PROJECT_DIR$/Behavioral/State pattern/State pattern/State pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Behavioral/States pattern/States pattern.iml" filepath="$PROJECT_DIR$/Behavioral/States pattern/States pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Behavioral/Strategy pattern/Strategy pattern.iml" filepath="$PROJECT_DIR$/Behavioral/Strategy pattern/Strategy pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Behavioral/Template pattern/Template pattern.iml" filepath="$PROJECT_DIR$/Behavioral/Template pattern/Template pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Behavioral/Visitor patterm/Visitor patterm.iml" filepath="$PROJECT_DIR$/Behavioral/Visitor patterm/Visitor patterm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Behavioral/memento pattern/memento pattern.iml" filepath="$PROJECT_DIR$/Behavioral/memento pattern/memento pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/software engineer design pattern.iml" filepath="$PROJECT_DIR$/.idea/software engineer design pattern.iml" />
+    </modules>
+  </component>
+</project>

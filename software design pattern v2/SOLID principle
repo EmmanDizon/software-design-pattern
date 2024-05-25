@@ -1,0 +1,56 @@
+The SOLID principles  help make object-oriented designs more understandable,
+flexible, and maintainable.
+
+a set of rules and best practices to follow when designing a class structure.
+
+S - Single responsibility Principle
+
+every single software entity (class or method) should have only a single reason to change
+if a given class or method does multiple operations, then it is advisable to separate into distinct classes or methods
+it can be done easily with the help of interfaces (at least in java or typescript)
+each class or method handle just a single responsibility
+achieve loosely coupled software components
+
+O - Open-closed principle
+
+open for extensions, but closed for modifications.
+states that the design and writing of the code should be done in a way that new functionality should be added with minimum changes
+    in the existing code.
+changes in the existing code should be minimized.
+it's assumed that the existing code is already unit tested
+and changes in already written code might affect the existing functionality in an unwanted manner.
+we have to design every module such that if we add a new behavior then we do not have to change the existing modules.
+
+L - Liskov Substitution Principle
+(https://www.linkedin.com/pulse/liskov-substitution-principle-lsp-paul-gichure-ctfl/)
+
+The objects of the subclasses should behave in the same way as the objects of the superclass.
+if an override method does nothing or just throws an exception, then you're probably violating the LSP
+
+I - Interface Segregation Principle
+classes and methods should not be forced to depend upon interfaces that they do not use
+it is not good if an interface has a large number of methods, we should separate the methods accordingly
+we should break our interfaces in many smaller ones so they better satisfy the exact needs of our clients
+
+D - Dependency Inversion Principle
+when implementing an application usually we start with the low level components
+then we implement the high level modules that rely on these low level modules
+
+the high level modules should know nothing about the implementation details or the concrete implementation
+of  low level modules
+
+Thus, the high level modules should not depend on low level modules. both should depend on abstractions.
+note: abstractions should not depend on details. Details (concrete implementations) should depend on abstractions.
+
+in OOP, we can implement inversion of control several ways
+1. using design patterns such us factory, template or strategy patterns
+using service locator pattern
+using dependency injection
+
+conclusion: should rely heavily on pure abstraction
+
+tight coupling:
+classes are highly dependent on one another. this is typically happens when the classes have too many responsibilities.
+
+loosely coupling:
+classes independent of each other. we can change the behavior of a given class without needing to modified the other classes

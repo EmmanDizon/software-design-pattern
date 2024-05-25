@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Design patterns/Creational/Abstract Factory/Abstract Factory.iml" filepath="$PROJECT_DIR$/Design patterns/Creational/Abstract Factory/Abstract Factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design patterns/Structural/Adapter/Adapter.iml" filepath="$PROJECT_DIR$/Design patterns/Structural/Adapter/Adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design patterns/Creational/Builder/Builder.iml" filepath="$PROJECT_DIR$/Design patterns/Creational/Builder/Builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design patterns/Behavioral/Command/Command.iml" filepath="$PROJECT_DIR$/Design patterns/Behavioral/Command/Command.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design patterns/Creational/Creational.iml" filepath="$PROJECT_DIR$/Design patterns/Creational/Creational.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design patterns/Structural/Decorator/Decorator.iml" filepath="$PROJECT_DIR$/Design patterns/Structural/Decorator/Decorator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SOLID/Dependency Inversion/Dependency Inversion.iml" filepath="$PROJECT_DIR$/SOLID/Dependency Inversion/Dependency Inversion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design patterns/Structural/Facade/Facade.iml" filepath="$PROJECT_DIR$/Design patterns/Structural/Facade/Facade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design patterns/Creational/Factory/Factory.iml" filepath="$PROJECT_DIR$/Design patterns/Creational/Factory/Factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SOLID/Interface Segragation/Interface Segragation.iml" filepath="$PROJECT_DIR$/SOLID/Interface Segragation/Interface Segragation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design patterns/Behavioral/Iterator/Iterator.iml" filepath="$PROJECT_DIR$/Design patterns/Behavioral/Iterator/Iterator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SOLID/Liskov Substitution/Liskov Substitution.iml" filepath="$PROJECT_DIR$/SOLID/Liskov Substitution/Liskov Substitution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design patterns/Behavioral/Observer/Observer.iml" filepath="$PROJECT_DIR$/Design patterns/Behavioral/Observer/Observer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SOLID/Open-closed/Open-closed.iml" filepath="$PROJECT_DIR$/SOLID/Open-closed/Open-closed.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design patterns/Creational/Prototype/Prototype.iml" filepath="$PROJECT_DIR$/Design patterns/Creational/Prototype/Prototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SOLID/SOLID.iml" filepath="$PROJECT_DIR$/SOLID/SOLID.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SOLID/Single Responsibility/Single Responsibility.iml" filepath="$PROJECT_DIR$/SOLID/Single Responsibility/Single Responsibility.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design patterns/Creational/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/Design patterns/Creational/Singleton/Singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design patterns/Behavioral/Strategy/Strategy.iml" filepath="$PROJECT_DIR$/Design patterns/Behavioral/Strategy/Strategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design patterns/Behavioral/Strategy/Strategy pattern/Strategy pattern.iml" filepath="$PROJECT_DIR$/Design patterns/Behavioral/Strategy/Strategy pattern/Strategy pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design patterns/Behavioral/Template/Template.iml" filepath="$PROJECT_DIR$/Design patterns/Behavioral/Template/Template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design patterns/Behavioral/Visitor/Visitor.iml" filepath="$PROJECT_DIR$/Design patterns/Behavioral/Visitor/Visitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/design pattern v2.iml" filepath="$PROJECT_DIR$/.idea/design pattern v2.iml" />
+    </modules>
+  </component>
+</project>

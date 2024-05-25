@@ -1,0 +1,10 @@
+We use this pattern in situations where we want to represent a hierarchy of objects
+and treat them uniformly
+
+The composite pattern is a design pattern in which objects are treated uniformly,
+whether they are simple individual objects or complex structures made up of many individual objects.
+
+
+"Treated in the same manner" means that objects are manipulated using the same methods, regardless of whether they are individual objects or compositions of objects.
+
+In the context of the composite pattern, this means that both individual objects and compositions of objects are treated using the same set of methods defined in the common interface.

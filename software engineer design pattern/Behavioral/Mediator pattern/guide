@@ -1,0 +1,5 @@
+In this pattern, objects do not communicate directly with each other,
+but instead communicate through the mediator. This allows for a separation of concerns
+
+objects do not need to know about each other's existence,
+but can still communicate with each other through the Mediator class.

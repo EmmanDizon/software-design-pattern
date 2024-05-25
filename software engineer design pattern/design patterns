@@ -1,0 +1,33 @@
+- Design patterns are the elegant solutions to repeating problems in software design
+
+
+3 categories:
+
+Creational -> all about different ways to create objects
+
+structural -> relationship between objects or classes
+
+behavioral -> interaction or communication between objects or classes
+
+benefits of design patterns ->
+1. they help us communicate with other developers at a more abstract level,
+you don't have to write a lot of code to express that idea.
+
+2. Understanding this design pattern is that it makes you a better designer.
+You will learn how to build reusable, extensible and maintainable software, no matter what PL you use,
+or what kind of app you build.
+3. They help you learn and use new frameworks faster.
+
+
+abstraction refers to the act of representing essential features without including the background details or explanations.
+
+
+Relationships refer to the connections and associations between objects in a system. They describe the way objects are related to each other, and how they work together to achieve a common goal. For example, a parent-child relationship between objects is a relationship where one object (the parent) has control over or is responsible for one or more other objects (the children).
+
+Interactions, on the other hand, refer to the way objects communicate and operate with each other. They describe the way objects send messages to each other, pass data between each other, and coordinate their activities. For example, when one object sends a message to another object asking it to perform a certain action, this is an interaction between the two objects.
+
+In short, relationships describe the connections between objects, while interactions describe the way objects communicate and operate with each other. Design patterns that focus on relationships between objects are considered structural design patterns, while design patterns that focus on interactions between objects are considered behavioral design patterns.
+
+
+
+

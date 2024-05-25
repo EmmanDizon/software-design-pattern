@@ -1,0 +1,39 @@
+1. Strategy pattern -> this design pattern is extremely crucial when dealing with solid principle
+    because example the open-closed or the dependency inversion principle with behalf of this pattern.
+  - the definition for this pattern is to enable selecting an algorithm at run-time
+  - thus we can define a family of algorithms, put each of them into a separate class, and make their objects
+    interchangeable (It means that one thing can be substituted for another without affecting the overall outcome or result)
+  - favor composition over inheritance
+
+2. Observer pattern -> when one object changes state all of its dependents are notified and updated automatically
+  - the subject is the object that is being monitored
+  - observers or listeners are depending on that object
+
+3. Command pattern -> the aim is to achieve separation of concerns
+ - there are usually 4 components of the command pattern
+   • command, receiver, invoker and client
+
+   1. command -> it knows about the receiver and invokes a method of the receiver.
+      - the values for parameters of the receiver method are stored in the command
+   2. receiver -> it does the work itself
+   3. invoker -> know how to execute a command and optionally does bookkeeping about the command execution
+       - the invoker does not know anything about a concrete command, it only knows about command interface
+   4. client -> which command to execute. to execute a command it passes the command object to the invoker object
+
+ Advantages:
+    we don't have to execute the commands immediately. we can store these commands in a data structure
+    also we can implement undo/redo operations
+
+4. Iterator pattern -> lets you traverse elements of a collection without exposing its underlying representation
+    or data structure.
+
+5. Template pattern ->  allows you to define the skeleton or basic structure of an algorithm, and let the subclasses implement the details.
+In other words, it provides a way to define an algorithm's structure in a base class
+and allow subclasses to implement the individual steps of the algorithm as needed.
+
+6. visitor pattern -> is a way of separating an algorithm from an object structure on w/c it operates
+ benefits: the ability to add new operations to existing object structures without modifying the structures
+
+ The Visitor pattern is commonly used in object-oriented programming when you have a complex data structure
+ consisting of different types of objects,
+ and you want to perform operations or apply algorithms on those objects without modifying their individual classes.

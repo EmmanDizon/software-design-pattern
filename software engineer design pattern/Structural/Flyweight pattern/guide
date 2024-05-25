@@ -1,0 +1,8 @@
+We use this pattern where we have a large number of objects
+and this objects take a significant amount in memory.
+
+we can reduce the amount of memory consume of these objects.
+
+
+The Flyweight pattern is a design pattern used in software engineering
+that helps to minimize memory usage by sharing data between objects

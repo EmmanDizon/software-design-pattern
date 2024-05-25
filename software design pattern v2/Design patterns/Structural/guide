@@ -1,0 +1,14 @@
+Decorator -> to add one or more behaviors dynamically.
+we can attach additional responsibilities to an object dynamically
+
+Facade pattern ->
+we use this pattern to provide a simple interface to a complex system
+it allows us to provide a simple interface to a complex system
+it only provides the features that the client actually needs
+
+Adapter pattern ->
+we use this pattern to convert interface of a class to a different form.
+works as a bridge between two incompatible interfaces. This type of design pattern comes under structural pattern as this pattern
+combines the capability of two independent interfaces.
+allows objects with incompatible interfaces to collaborate and work together. It is often used to make
+existing classes work with others without modifying their source code.

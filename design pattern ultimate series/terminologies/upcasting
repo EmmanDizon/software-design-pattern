@@ -1,0 +1,67 @@
+abstract class Employee {
+    private String name;
+    private int id;
+    private double salary;
+    abstract double calculateBonus();
+
+    public Employee(String name, int id, double salary) {
+        this.name = name;
+        this.id = id;
+        this.salary = salary;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public int getId() {
+        return id;
+    }
+
+    public double getSalary() {
+        return salary;
+    }
+}
+
+class Manager extends Employee {
+    private double bonusPercentage = 0.1;
+
+    public Manager(String name, int id, double salary) {
+        super(name, id, salary);
+    }
+
+    @Override
+    double calculateBonus() {
+        return bonusPercentage * getSalary();
+    }
+}
+
+class Salesperson extends Employee {
+    private double bonusPercentage = 0.2;
+
+    public Salesperson(String name, int id, double salary) {
+        super(name, id, salary);
+    }
+
+    @Override
+    double calculateBonus() {
+        return bonusPercentage * getSalary();
+    }
+}
+
+class HR {
+    public static void processBonuses(Employee[] employees) {
+        for (Employee employee : employees) {
+            System.out.println("Bonus for " + employee.getName() + ": $" + employee.calculateBonus());
+        }
+    }
+}
+
+
+In this code, upcasting refers to casting a subclass object to its superclass type. The line Employee employee : employees in the processBonuses method is an example of upcasting.
+
+Here, the employees array is an array of Employee objects, and it can contain objects of any class that extends Employee, such as Manager and Salesperson. When we iterate through the array and assign each element to the employee variable, the employee variable is of type Employee, even though the actual object it refers to might be of type Manager or Salesperson.
+
+This is possible because Manager and Salesperson are subclasses of Employee, and the Employee class has defined an abstract method calculateBonus that both Manager and Salesperson have implemented. The processBonuses method can call the calculateBonus method on the employee object, regardless of its actual class, because it knows that the object will have the calculateBonus method defined in the Employee class or in one of its subclasses.
+
+So, in this code, upcasting allows us to write more general code that can work with objects of different subclasses without having to know their exact class. This is a key feature of object-oriented programming and polymorphism.

@@ -1,0 +1,11 @@
+allows us to create a proxy or agent for real object.
+if we will talk to object, we will talk to its proxy (middleman)
+
+
+This pattern is used when you need to add an additional layer of control over an object to limit or manage access to it.
+
+
+In simpler terms, a proxy is a substitute object that provides a similar interface as the original object,
+but with added functionalities such as access control, caching, or any other additional processing.
+You use a proxy when you want to control access to an object or improve performance
+by adding an additional layer of processing.
